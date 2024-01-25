@@ -1,0 +1,3 @@
+﻿  test.c
+E:\code\github_test_c\test.c\test.c\test.c(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  test.c.vcxproj -> E:\code\github_test_c\test.c\x64\Debug\test.c.exe
